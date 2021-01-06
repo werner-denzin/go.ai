@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="ai.tool", 
+    name="ai.tools", 
     version="0.0.1",
     author="Werner Denzin",
     author_email="werner.cjd@gmail.com",

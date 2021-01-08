@@ -9,7 +9,7 @@ So they will can focus on the AI problem instead of waste time by writing common
 #### Architecture / Design
 <font size="1">
 The idea is to compose a great toolbox that follows the <a href="https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-mlconcepts.html">AWS Machine Learning Workflow</a>.<br>
-Each of the Python classes will contribute with a set of methods (functions) specialized for the respective ML workflow's context.<br>
+Each of the classes will contribute with a set of methods specialized for the respective ML workflow's context.<br>
 </font>
 <br>
 

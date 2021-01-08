@@ -15,4 +15,7 @@ Each of the classes will contribute with a set of methods specialized for the re
 
 ![Alt text](doc/images/aitools.png?raw=true "Title")
 
+#### Version
+<font size="1">0.0.2</font>
+
 > **Note:** Under construction.
